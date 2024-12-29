@@ -114,19 +114,6 @@ detect_and_plot_communities(combined_graph, title="Community Detection")
 
 ---
 
-## Project Structure
-
-```
-root/
-├── data/
-│   ├── file1.pdf
-│   ├── file2.pdf
-├── main.py  # Main script for analysis
-├── README.md
-```
-
----
-
 ## Dependencies
 
 - `PyMuPDF` - PDF text extraction
